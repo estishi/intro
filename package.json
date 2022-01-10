@@ -19,7 +19,7 @@
     "nn":"echo hallo ",
     "printAll":" dir",
     "createDir":" md test",
-    "copyToDir":"react-scripts"
+    "copyToDir":""
   },
   "eslintConfig": {
     "extends": [
